@@ -68,5 +68,5 @@ blog-fusion/
 MIT Licensed - Create, Share, Inspire! 
 
 ## 📞 Connect
-**Author:** Parth Patel
+**Author:** Parth Makwana
 **GitHub:** [@Parth3918](https://github.com/Parth3918)
